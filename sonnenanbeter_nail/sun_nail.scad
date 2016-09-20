@@ -5,7 +5,7 @@
 */
 
 $od=6; // outer diameter of cfk pipe
-$id=3.7; // inner diameter of cfk pipe
+$id=4; // inner diameter of cfk pipe
 
 $nailHeadHeight=2;
 $nailHeadOD=4;
